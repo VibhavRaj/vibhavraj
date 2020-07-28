@@ -7,7 +7,7 @@ I'm a Web developer with experience developing complex, high profile web applica
 ## Connect with Me 🤝🏻
 [![Linkedin](https://github.com/VibhavRaj/vibhavraj/blob/master/img/linkedin.svg)](https://www.linkedin.com/in/vibhavraj/)[![Website](https://github.com/VibhavRaj/vibhavraj/blob/master/img/website.svg)](https://demo.com/)
 
-## Technical Skills 💻
+## Technical Expertise 💻
 • Html/5,Css/3,Flexbox,Grid\
 • Javascript(es5/6),Typescript\
 • Bootstrap,Semantic UI,Ng-zorro\
@@ -15,7 +15,8 @@ I'm a Web developer with experience developing complex, high profile web applica
 • Nodejs,Express.js\
 • Adobe : - Photoshop,Illustrator
 
-[![Mostusedlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavraj&layout=compact)]
+## Most Used Languages
+[!Mostusedlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavraj&layout=compact)
 <!--
 **VibhavRaj/vibhavraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
