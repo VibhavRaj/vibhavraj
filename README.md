@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I am Vibhav Raj 🙋‍♂️, Front End Developer, Web Developer , Angular Developer.
+I am Vibhav Raj 🙋‍♂️ a student, Front End Developer, Web Developer, Angular Developer.
 
 I'm a Web developer with experience developing complex, high profile web applications collaborating with both small and large teams. I specialize in Angular, most recently thriving in an agile environment leveraging modern technologies such as Angular and Javascript. I pride myself on writing scalable, elegant code - creating simple solutions to complex problems and design modern Applications.
 
@@ -16,6 +16,7 @@ I'm a Web developer with experience developing complex, high profile web applica
 • Adobe : - Photoshop,Illustrator
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavraj)](https://github.com/VibhavRaj/vibhavraj)
+
 <!--
 **VibhavRaj/vibhavraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
