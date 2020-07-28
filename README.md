@@ -9,11 +9,11 @@ I'm a Web developer with experience developing complex, high profile web applica
 
 ## Technical Skills 💻
 • Html/5,Css/3,Flexbox,Grid\
-• Javascript(es5/6),Typescript.
-• Bootstrap,Semantic UI,Ng-zorro.
-• Angular 2+,Angular material,Rxjs.
-• Nodejs,Express.js.
-• Adobe : - Photoshop,Illustrator.
+• Javascript(es5/6),Typescript\
+• Bootstrap,Semantic UI,Ng-zorro\
+• Angular 2+,Angular material,Rxjs\
+• Nodejs,Express.js\
+• Adobe : - Photoshop,Illustrator
 
 <!--
 **VibhavRaj/vibhavraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
