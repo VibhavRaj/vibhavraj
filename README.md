@@ -15,7 +15,7 @@ I'm a Web developer with experience developing complex, high profile web applica
 • Nodejs,Express.js\
 • Adobe : - Photoshop,Illustrator
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavraj&layout=compact)]
+[![Mostusedlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavraj&layout=compact)]
 <!--
 **VibhavRaj/vibhavraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
