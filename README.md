@@ -8,7 +8,8 @@ I'm a Web developer with experience developing complex, high profile web applica
 [![Linkedin](https://github.com/VibhavRaj/vibhavraj/blob/master/img/linkedin.svg)](https://www.linkedin.com/in/vibhavraj/)[![Website](https://github.com/VibhavRaj/vibhavraj/blob/master/img/website.svg)](https://demo.com/)
 
 ## Technical Skills 💻
-• Html/5,Css/3,Flexbox,Grid.
+• Html/5,Css/3,Flexbox,Grid
+
 • Javascript(es5/6),Typescript.
 • Bootstrap,Semantic UI,Ng-zorro.
 • Angular 2+,Angular material,Rxjs.
