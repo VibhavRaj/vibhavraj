@@ -1,8 +1,11 @@
-# Hello there! 👋
+# About Me! 👋
 
 I am Vibhav Raj 🙋‍♂️ a student, Front End Developer, Web Developer, Angular Developer.
 
-I'm a Web developer with experience developing complex, high profile web applications collaborating with both small and large teams. I specialize in Angular, most recently thriving in an agile environment leveraging modern technologies such as Angular and Javascript. I pride myself on writing scalable, elegant code - creating simple solutions to complex problems and design modern Applications.
+• I'm a Web developer with experience developing complex, high profile web applications collaborating with both small and large teams.\
+• I specialize in modern technologies such as Angular and Javascript.\
+• Most recently working in an agile environment.\
+• I pride myself on writing scalable, elegant code - creating simple solutions to complex problems and design modern Applications.\
 
 ## Connect with Me 🤝🏻
 [![Linkedin](https://github.com/VibhavRaj/vibhavraj/blob/master/img/linkedin.svg)](https://www.linkedin.com/in/vibhavraj/)[![Website](https://github.com/VibhavRaj/vibhavraj/blob/master/img/website.svg)](https://demo.com/)
